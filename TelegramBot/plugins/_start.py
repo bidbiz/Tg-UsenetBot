@@ -17,7 +17,7 @@ START_BUTTON = [
     ],
     [
         InlineKeyboardButton(
-            "🔭 Original Repo", url=f"https://github.com/sanjit-sinha/Tg-UsenetBot"
+            "Group", url=f"https://t.me/botdownloadall"
         )
     ],
 ]
